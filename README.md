@@ -35,5 +35,5 @@
   ## 📫 Links and Contacts
   
   - 🌐 **Blog**: [https://MapleLea1f.github.io](https://MapleLea1f.github.io)
-  - 📧 **Email**: [your@email.com](mailto:your@email.com)
-  - 🐦 **Twitter**: [https://twitter.com/yourtwitter](https://twitter.com/cadillacnm)
+  - 📧 **Email**: [cadillacnm@gmail.com](mailto:cadillacnm@gmail.com)
+  - 🐦 **Twitter**: [https://twitter.com/cadillacnm](https://twitter.com/cadillacnm)
